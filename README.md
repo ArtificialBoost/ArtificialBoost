@@ -11,7 +11,7 @@ OS: Arch Linux x86_64
 Shell: zsh 5.8
 Location: London, UK
 Languages: HTML, CSS
-Learning: JS
+Learning: Javascript
 Hobbies: Movies, Cooking, Gaming
 Discord: Kaiden#2849
 ```
