@@ -11,11 +11,10 @@ OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: London, UK
-Frameworks: React
-Languages: Assembly, C++,
+Languages: Assembly, CPP,
            HTML, CSS
 Learning: Node.js, C, C#,
-          even more C++
+          even more CPP
 Hobbies: Movies, Cooking, Gaming
 Commits: 0
 Stars: 0
