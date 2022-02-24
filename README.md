@@ -10,8 +10,8 @@ artificialboost@github
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Location: London, UK
-Languages: CPP, Assembly
-Learning: Other languages
+Languages: HTML, CSS
+Learning: JS
 Hobbies: Movies, Cooking, Gaming
 Discord: Kaiden#2849
 ```
