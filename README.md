@@ -13,8 +13,6 @@ Location: London, UK
 Languages: CPP, Assembly
 Learning: Other languages
 Hobbies: Movies, Cooking, Gaming
-Commits: 0
-Stars: 0
 Discord: Kaiden#2849
 ```
 <p align="left">
