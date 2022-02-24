@@ -13,8 +13,7 @@ Pronouns: He/Him
 Location: London, UK
 Languages: Assembly, CPP,
            HTML, CSS
-Learning: Node.js, C, C#,
-          even more CPP
+Learning: Other languages
 Hobbies: Movies, Cooking, Gaming
 Commits: 0
 Stars: 0
