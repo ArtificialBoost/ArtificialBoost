@@ -13,5 +13,5 @@ Location: London, UK
 Languages: HTML, CSS
 Learning: Javascript
 Hobbies: Movies, Cooking, Gaming
-Discord: Artificial#1337
+Discord: Kaiden#0002
 ```
