@@ -9,10 +9,8 @@ artificialboost@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
-Pronouns: He/Him
 Location: London, UK
-Languages: Assembly, CPP,
-           HTML, CSS
+Languages: CPP, Assembly
 Learning: Other languages
 Hobbies: Movies, Cooking, Gaming
 Commits: 0
